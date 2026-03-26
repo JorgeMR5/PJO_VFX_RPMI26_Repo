@@ -57,9 +57,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _fireDetail: 10.6
-    - _firePower: 0.33
-    - _fireThreshold: -0.58
+    - _fireDetail: 10.4
+    - _firePower: 0.3
+    - _fireThreshold: -0.61
     m_Colors:
     - _fireColor: {r: 1, g: 0.33818257, b: 0, a: 1}
   m_BuildTextureStacks: []

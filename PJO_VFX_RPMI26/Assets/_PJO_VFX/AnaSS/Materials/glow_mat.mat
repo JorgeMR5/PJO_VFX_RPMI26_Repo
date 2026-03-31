@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8982833202653939604
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lightning
-  m_Shader: {fileID: -6465566751694194690, guid: f938288bdeabd224c898b6e5b411ae55, type: 3}
+  m_Name: glow_mat
+  m_Shader: {fileID: -6465566751694194690, guid: 4ad5f984a5c7d4642b6ad9b5e85ebd9a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -38,25 +51,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distortion: 0.31
-    - _Lightning_Width: 0.05
+    - _BottomLine: 0.49
+    - _Metallic: 0.24
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 0.33
+    - _TopLine: 0.79
     m_Colors:
-    - _Color: {r: 9.082411, g: 9.082411, b: 9.082411, a: 0}
-    - _DistortionSpeed: {r: 0, g: 0.33, b: 0, a: 0}
+    - _BaseColor: {r: 0.2140723, g: 0.84544784, b: 1.3041192, a: 1}
+    - _BottomColor: {r: 1.9091091, g: 6.883183, b: 3.3132517, a: 1}
+    - _TopColor: {r: 3.2111175, g: 0, b: 1.6790156, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &3580046074210222768
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 9

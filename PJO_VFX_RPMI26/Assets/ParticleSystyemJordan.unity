@@ -24634,6 +24634,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 642125876722008683, guid: 6819761513d0ed44298517bbe24841b2, type: 3}
+      propertyPath: m_Name
+      value: destellos
+      objectReference: {fileID: 0}
     - target: {fileID: 5160712076644188484, guid: 6819761513d0ed44298517bbe24841b2, type: 3}
       propertyPath: m_LocalPosition.x
       value: -53.95718

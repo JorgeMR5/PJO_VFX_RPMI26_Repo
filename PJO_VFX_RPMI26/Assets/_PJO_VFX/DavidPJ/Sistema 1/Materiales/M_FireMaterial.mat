@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Additive_FireMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: a806ad9bac939b24e88adb202a69bdca, type: 3}
+  m_Name: M_FireMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: cc8f60ce1f6bcb548b6417d91e4e62e3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []

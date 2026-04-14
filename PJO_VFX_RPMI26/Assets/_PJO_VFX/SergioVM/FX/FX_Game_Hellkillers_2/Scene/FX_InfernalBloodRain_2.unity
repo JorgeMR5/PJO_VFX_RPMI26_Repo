@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 206226686}
   - component: {fileID: 206226685}
   m_Layer: 0
-  m_Name: Rain
+  m_Name: Blood_Rain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

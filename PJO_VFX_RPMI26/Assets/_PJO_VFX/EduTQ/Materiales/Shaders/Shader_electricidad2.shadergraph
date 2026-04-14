@@ -861,13 +861,13 @@
     "m_RefNameGeneratedByDisplayName": "ElectricityAmound",
     "m_DefaultReferenceName": "_ElectricityAmound",
     "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
+    "m_GeneratePropertyBlock": false,
     "m_UseCustomSlotLabel": false,
     "m_CustomSlotLabel": "",
     "m_DismissedVersion": 0,
     "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
+    "overrideHLSLDeclaration": true,
+    "hlslDeclarationOverride": 2,
     "m_Hidden": false,
     "m_Value": 2.0,
     "m_FloatType": 0,
@@ -1502,10 +1502,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1284.666748046875,
-            "y": -124.66665649414063,
-            "width": 209.3333740234375,
-            "height": 304.0
+            "x": 1303.9998779296875,
+            "y": -117.3333511352539,
+            "width": 209.33349609375,
+            "height": 303.9999694824219
         }
     },
     "m_Slots": [
@@ -2060,10 +2060,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1371.33349609375,
-            "y": -291.3333435058594,
-            "width": 118.0,
-            "height": 95.99998474121094
+            "x": 1362.6666259765625,
+            "y": -274.0,
+            "width": 118.666748046875,
+            "height": 96.0
         }
     },
     "m_Slots": [
@@ -3280,10 +3280,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 1160.0,
-            "y": -170.00003051757813,
+            "x": 1164.6666259765625,
+            "y": -215.33334350585938,
             "width": 108.0,
-            "height": 36.00001525878906
+            "height": 36.00004577636719
         }
     },
     "m_Slots": [

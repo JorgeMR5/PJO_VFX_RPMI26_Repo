@@ -55,8 +55,8 @@ Material:
     - _CastShadows: 1
     - _Cull: 0
     - _DstBlend: 10
-    - _Erosion: 0.19
-    - _MaskErosion: 0.05
+    - _Erosion: 0.1
+    - _MaskErosion: 18.09
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -65,8 +65,8 @@ Material:
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 11.051347, g: 10.825455, b: 10.825455, a: 1}
-    - _MainTexSpeed: {r: 0.1, g: 0.05, b: 0, a: 0}
+    - _Color: {r: 0.36355186, g: 3.619007, b: 0, a: 1}
+    - _MainTexSpeed: {r: -0.14, g: 0.05, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4856139598363169093

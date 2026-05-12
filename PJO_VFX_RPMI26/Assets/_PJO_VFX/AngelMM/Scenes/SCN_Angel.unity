@@ -458,6 +458,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8527437477038621085, guid: 3f8fa340c1c4dbd40afd202505d2c982, type: 3}
+      propertyPath: SizeModule.separateAxes
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527437477038621085, guid: 3f8fa340c1c4dbd40afd202505d2c982, type: 3}
       propertyPath: NoiseModule.strength.scalar
       value: 2.39
       objectReference: {fileID: 0}
@@ -698,7 +702,7 @@ PrefabInstance:
     - target: {fileID: 3635153848220584194, guid: 07589ea595d1b0d41ad0b720fb4d418c, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+      objectReference: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
     - target: {fileID: 3635153848220584194, guid: 07589ea595d1b0d41ad0b720fb4d418c, type: 3}
       propertyPath: m_RenderMode
       value: 4
